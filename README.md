@@ -7,6 +7,6 @@
 > > 두번째 문단
 > > > 세번째 문단
 
-!(https://wallpaperaccess.com/full/829012.jpg)
+![이미지](https://wallpaperaccess.com/full/829012.jpg)
 
 
