@@ -13,4 +13,4 @@
 
 [동영상](https://youtu.be/0-q1KafFCLU)
 
-[![사진](https://t1.daumcdn.net/cfile/tistory/240814485574155029](https://youtu.be/mJztAFUUFNo)
+[![사진](https://t1.daumcdn.net/cfile/tistory/240814485574155029)](https://youtu.be/mJztAFUUFNo)
